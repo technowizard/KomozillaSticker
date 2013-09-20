@@ -10,3 +10,5 @@ This document is made by [gitfab](http://gitfab.org)
 <h1>Image</h1>
 ![sticker_komozilla.png](https://raw.github.com/JecyLosika/KomozillaSticker/master/gitfab/resources/sticker_komozilla.png)
 ---
+<h1>Download</h1>
+---
